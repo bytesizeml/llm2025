@@ -24,5 +24,5 @@
 
 | Lecture | Lecture Topic | Pre-Lecture Slides | Annotated Lecture Slides | Lecture Videos | Notebooks | 
 | --- | --- | --- | --- | --- | --- |
-| Jan 4 | Introduction to the Course |  [Lecture 1](lectures/Jan_6_2025_lecture.pdf) | [Lecture 1 annotated]() | [Video]() |- | 
-| Jan 9 | Deep Learning Fundamentals |  [Lecture 2]() | [Lecture 2 annotated]() | [Video]()  | [TensorFlow Playground Demo]() | 
+| Jan 6 | Introduction to the Course |  [Lecture 1](lectures/Jan_6_2025_lecture.pdf) | [Lecture 1 annotated]() | [Video]() |- | 
+| Jan 8 | Deep Learning Fundamentals |  [Lecture 1 continuation](lectures/Jan_6_2025_lecture.pdf) [Lecture 2](lectures/Jan_8_2025_lecture.pdf) | [Lecture 2 annotated]() | [Video]()  | [TensorFlow Playground Demo]() | 
