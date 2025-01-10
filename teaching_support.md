@@ -12,7 +12,7 @@
 ***
 
 
-| [Home](index.md)  | [Lectures](lectures.md)    | [Teaching Support] (teaching_support.md) | [Assessments](assessments.md) | [References](references.md) | [Demos](demos.md) | [About Team](team.md) |
+| [Home](index.md)  | [Lectures](lectures.md)    | [Teaching Support](teaching_support.md) | [Assessments](assessments.md) | [References](references.md) | [Demos](demos.md) | [About Team](team.md) |
 
 
 ### Office Hours
