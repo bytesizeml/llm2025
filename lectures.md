@@ -30,3 +30,4 @@
 | Jan 22 | Deep Learning Fundamentals | [DL Fundamentals](lectures/Jan_22_2025_lecture.pdf)  | [Lecture 4 annotated](lectures/Jan_22_2025_lecture_annotated.pdf) | [Video](https://youtu.be/lJwKJ7b3yFc)  |  | 
 | Jan 23 | Embeddings and Semantic Search |  [Semantic Search](lectures/semantic_search_presentation.pdf) | [Semantic Search Annotated](lectures/semantic_search_presentation_annotated.pdf) | [Video](https://www.youtube.com/watch?v=VJ1yH8n82N8)  |  | 
 | Jan 27 | Embeddings and Semantic Search |  [Lecture 6](lectures/Jan_27_2025_lecture.pdf) | [Lecture 6 Annotated]() | [Video]()  | [Coding Exercise](lectures/Jan_27_2025_In_Class_Coding_Assignment_ECE_UW.ipynb) | 
+| Jan 29 | BERT Model |  [Lecture 7](lectures/Jan_29_2025_lecture.pdf) | [Lecture 7 Annotated]() | [Video]()  |  | 
