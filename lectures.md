@@ -32,4 +32,4 @@
 | Jan 27 | Embeddings and Semantic Search |  [Lecture 6](lectures/Jan_27_2025_lecture.pdf) | [Lecture 6 Annotated](lectures/Jan_27_2025_lecture_anntoated.pdf) | [Video](https://www.youtube.com/watch?v=F5phcB8s21w&t=1s)  | [Coding Exercise](lectures/Jan_27_2025_In_Class_Coding_Assignment_ECE_UW.ipynb) | 
 | Jan 29 | Transformers and BERT Model |  [Lecture 7](lectures/Jan_29_2025_lecture.pdf) | [Lecture 7 Annotated](lectures/Jan_29_2025_lecture_annotated.pdf) | [Video](https://www.youtube.com/watch?v=0KmortBE1mg)  |  | 
 | Feb 3 | Multi-Head Attention |  [Lecture 8](lectures/Feb_3_2025_lecture.pdf) | [Lecture 8 Annotated](lectures/Feb_3_2025_lecture_annotated.pdf) | [Video]()  |  | 
-| Feb 5 | Transformers, SBERT and Instacart Embeddings |  [Lecture 9](lectures/Feb_5_2025_lecture.pdf) | [Lecture 9 Annotated](lectures/Feb_5_2025_lecture_annotated.pdf) | [Video]()  |  | 
+| Feb 5 | Prompt Engineering |  [Lecture 9](lectures/Feb_5_2025_lecture.pdf) [Prompting](lectures/LLM_Prompting_principles.pdf) | [Lecture 9 Annotated](lectures/Feb_5_2025_lecture_annotated.pdf) | [Video]()  | [Coding Exercise](Coding/LLM_prompting.ipynb) | 
